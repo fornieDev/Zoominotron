@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img src="Assets/Logo/logo.png" alt="Logo del proyecto" width="150"/>
+  <img width="720" src="Assets/Icons/rayo.png" alt="Logo del proyecto" width="150"/>
 </p>
 
 <p aling="center">
